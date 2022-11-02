@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 👋 Hi, I’m Anshuman Das username-@ANSHUMANDAS1506 
+- 👋 Hi, I’m Anshuman Das username->@ANSHUMANDAS1506 
 
 - 🔭 I’m currently working on OPEN-SOURCE projects...
 - 🌱 I’m currently learning C,C++,JAVA,DSA,WEB-Dev...
